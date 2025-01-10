@@ -96,7 +96,8 @@ Steps to Run
 
 1. Clone the Repository:  
    ```bash  
-   git clone [https://github.com/Hack-jack-Electronics/SociaLytics_fin]  
+   git clone https://github.com/Hack-jack-Electronics/SociaLytics_fin.git
+]  
    cd final
 2. Run the backend:
      python app.py
